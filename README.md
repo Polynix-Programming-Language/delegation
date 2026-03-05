@@ -1,2 +1,2 @@
 # delegation
-Compiler delegation system
+The LLVM compiler delegation system for PLJ
